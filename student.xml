@@ -1,0 +1,73 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<?xml-stylesheet type="text/css" href="stylecss.css"?>
+<students>
+<student>
+	<name>
+	ABC
+	</name>
+	<age>
+	7th Sem
+	</age>
+	<usn>
+	4VV16CS014
+	</usn>
+	<year>
+	2016
+	</year>
+	<branch>
+	CSE
+	</branch>
+	<email>
+	abc@gmail.com
+	</email>
+	<college>
+	Vidyavardhaka College of Engineering Mysore
+	</college>
+</student>
+<student>
+	<name>
+	XYZ
+	</name>
+	<age>
+	7th Sem
+	</age>
+	<usn>
+	4VV16CS003
+	</usn>
+	<year>
+	2016
+	</year>
+	<branch>
+	CSE
+	</branch>
+	<email>
+	xyz@gmail.com
+	</email>
+	<college>
+	Vidyavardhaka College of Engineering Mysore
+	</college>
+</student>
+<student>
+	<name>
+	PQR
+	</name>
+	<age>
+	7th Sem
+	</age>
+	<usn>
+	4VV16CS004
+	</usn>
+	<year>
+	2015
+	</year>
+	<branch>
+	CSE
+	</branch>
+	<email>
+	pqr@gmail.com
+	</email>
+	<college>
+	Vidyavardhaka College of Engineering Mysore
+	</college>
+</student>
+</students>
